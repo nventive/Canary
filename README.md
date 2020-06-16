@@ -1,2 +1,2 @@
-# DevOps
-A repository for nventive's DevOps needs
+# Canary
+A repository for nventive's Canaries
