@@ -2,7 +2,15 @@
     {
         "PackageId": "Uno.UI",
         "UpdatedVersion": "(,3.12.0)"
-    },   
+    },
+    {
+        "PackageId": "Uno.UI.RemoteControl",
+        "UpdatedVersion": "(,3.12.0)"
+    },    
+    {
+        "PackageId": "Uno.UI.WebAssembly",
+        "UpdatedVersion": "(,3.12.0)"
+    },    
     {
         "PackageId": "Uno.Core",
         "UpdatedVersion": "(,3.12.0)"
