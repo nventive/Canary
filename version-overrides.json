@@ -12,11 +12,11 @@
         "UpdatedVersion": "(,3.99.0)"
     },    
     {
-        "PackageId": "Uno.Core"
+        "PackageId": "Uno.Core",
         "UpdatedVersion": "(,3.99.0)"
     },
     {
-        "PackageId": "Uno.Core.Build"
+        "PackageId": "Uno.Core.Build",
         "UpdatedVersion": "(,3.99.0)"
     }
 ]
