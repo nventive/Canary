@@ -1,2 +1,18 @@
 [
+    {
+        "PackageId": "Uno.WinUI",
+        "UpdatedVersion": "(,4.11.0-dev.107)"
+    },
+    {
+        "PackageId": "Uno.WinUI.RemoteControl",
+        "UpdatedVersion": "(,4.11.0-dev.107)"
+    },    
+    {
+        "PackageId": "Uno.UI.WebAssembly",
+        "UpdatedVersion": "(,4.11.0-dev.107)"
+    },    
+    {
+        "PackageId": "Uno.CommunityToolkit.WinUI",
+        "UpdatedVersion": "(,7.1.100)"
+    }
 ]
