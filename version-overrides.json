@@ -10,6 +10,14 @@
     {
         "PackageId": "Uno.WinUI.RemoteControl",
         "UpdatedVersion": "(,6.0.0)"
+    },    
+    {
+        "PackageId": "Uno.WinUI.Lottie",
+        "UpdatedVersion": "(,6.0.0)"
+    },
+    {
+        "PackageId": "Uno.UI.Adapter.Microsoft.Extensions.Logging",
+        "UpdatedVersion": "(,6.0.0)"
     },
     {
         "PackageId": "Uno.UI.WebAssembly",
